@@ -110,3 +110,7 @@ Sravanthi
 
 
 
+
+## Application Screenshot
+
+![Hotel Reservation System Dashboard](hotel%201.jpeg)
